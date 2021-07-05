@@ -7,4 +7,4 @@
 ![Screenshot](screens/6.PNG)
 ![Screenshot](screens/7.PNG)
 ![Screenshot](screens/8.PNG)
-[![Watch the video]()](video.mov)
+[![Watch the video]()](https://github.com/valar-m0rghulis/Database-Navigator/blob/main/video.mov?raw=true)
